@@ -2,7 +2,7 @@
 The purpose was to understand hooks and practicing react core concepts like state and data flow.
 
 # Version React Js
-React Js  : 18.0.
+Version  : 18.0.
 
 # Getting Started with Create React App
 
